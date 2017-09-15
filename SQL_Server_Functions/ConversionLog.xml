@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_ConversionReport_Files/ConversionReport.xslt'?>
+<UpgradeLog>
+  <Properties>
+    <Property Name="Project" Value="SQL_Server_Functions" />
+    <Property Name="Project File" Value="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\SQL_Server_Functions.csproj" />
+    <Property Name="Date" Value="Thursday, September 13, 2012" />
+    <Property Name="Time" Value="5:04 PM" />
+  </Properties>
+  <Event ErrorLevel="0" Project="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\SQL_Server_Functions.csproj" Source="..\SQL_Server_Functions.csproj" Description="Project was successfully converted: 'C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\SQL_Server_Functions.csproj' to 'C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\SQL_Server_Functions.sqlproj'" />
+  <Event ErrorLevel="3" Project="C:\Users\aschroed\Documents\Visual Studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\SQL_Server_Functions.csproj" Source="..\SQL_Server_Functions.csproj" Description="Converted" />
+</UpgradeLog>

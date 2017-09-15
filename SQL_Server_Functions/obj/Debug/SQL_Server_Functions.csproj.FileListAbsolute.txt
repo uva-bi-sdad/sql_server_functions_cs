@@ -1,0 +1,5 @@
+c:\users\aschroed\documents\visual studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\bin\Debug\SQL_Server_Functions.dll
+c:\users\aschroed\documents\visual studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\bin\Debug\SQL_Server_Functions.pdb
+c:\users\aschroed\documents\visual studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aschroed\documents\visual studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\obj\Debug\SQL_Server_Functions.dll
+c:\users\aschroed\documents\visual studio 2010\Projects\SQLServerFunctions\SQL_Server_Functions\obj\Debug\SQL_Server_Functions.pdb
